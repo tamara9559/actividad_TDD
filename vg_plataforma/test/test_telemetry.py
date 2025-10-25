@@ -1,6 +1,6 @@
 import time
 import pytest
-from telemetry import TelemetrySystem
+from vg_plataforma.telemetry import TelemetrySystem
 
 
 def test_queue_time_measurement():
